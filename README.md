@@ -17,7 +17,7 @@ Visual components and Python
 
 
 ## Experiment:
-
+![P8](https://github.com/21005688/Open-Jacson-Networks/assets/94747031/323ed3a3-45ed-4559-9012-23d73369af6d)
 
 ## Program:
 ```
